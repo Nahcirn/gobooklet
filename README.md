@@ -23,5 +23,5 @@ List of changes from original:
 - Throughout:
   - piece(s) -> stone(s)
   - free/empty space(s) -> libert(y/ies)
-  - Standardised capitalised and hyphenation for 'dan' and 'kyu'.
+  - Standardised capitalisation and hyphenation for 'dan' and 'kyu'.
   - Capitalised 'Black' and 'White' when used as proper nouns.
