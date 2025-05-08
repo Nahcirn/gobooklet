@@ -1,9 +1,27 @@
-A booklet intended for children aged 9-13.  I have aimed for simplicity, with the assumption that they have a teacher who can field questions or develop their understanding further.
+Fork of https://github.com/justintolerable/gobooklet.git to use actual Go terminology, plus some additional minor changes.
 
-To be printed on A4 / Letter paper and folded into an A5 booklet.
+-----------------------------
 
-TO PRINT AS A BOOKLET:
+List of changes from original:
 
-- If your printer is capable of double sided printing, download the regular version of the PDF.  Open in Adobe Reader or Acrobat and choose 'Booklet' in the print menu.
-- If your printer is not capable, download the Booklet Friendly version of the PDF.  Print a single page, then flip and reinsert into the printer.  Print the next page.  Then move on to the next sheet and repeat the process until complete.
-
+- Slight difference in font / font weights.
+- p2:
+  - ...pieces. -> ...pieces, called 'stones'.
+- p3:
+  - It only has one free space next to it -> It only has one 'liberty' (empty space) next to it.
+  -   'attaching' -> 'connecting'
+- p8:
+  - ...an eye... -> ...one eye...
+- p9:
+  - ...to build a big territory... -> ...to build territory...
+  - 'sketch out' -> sketch out
+    - (Comment: To avoid confusion, since so far only proper Go terms are enclosed in single quotes.)
+- p10:
+  - You can be a Dan level Black belt -> You can be a 2-dan black belt
+    - (Comment: Reworded because in Karate all black belts are 'dan level'.)
+  - ...you can get a rank by playing... -> ...you can get a rank and learn more by playing...
+- Throughout:
+  - piece(s) -> stone(s)
+  - free/empty space(s) -> libert(y/ies)
+  - Standardised capitalised and hyphenation for 'dan' and 'kyu'.
+  - Capitalised 'Black' and 'White' when used as proper nouns.
